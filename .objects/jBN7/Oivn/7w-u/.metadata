@@ -1,0 +1,15 @@
+﻿{
+  "Id": "7w-u_7HGQ0u-XKMrvY2Ttw",
+  "Reference": "j-nZUoWQD0midgVTFBI8dg/7w-u_7HGQ0u-XKMrvY2Ttw",
+  "ParentRef": "j-nZUoWQD0midgVTFBI8dg/OivndKTWakee10cx0laloQ",
+  "Name": "Screen - Work Items",
+  "Type": "Screen",
+  "Created": "2023-06-20T13:34:30.7418382Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-20T13:44:11.1224574Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

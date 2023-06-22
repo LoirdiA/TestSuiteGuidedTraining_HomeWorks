@@ -1,0 +1,12 @@
+﻿{
+  "Id": "83z1VEmgC0ed60s2Cj9pdQ",
+  "Reference": "j-nZUoWQD0midgVTFBI8dg/83z1VEmgC0ed60s2Cj9pdQ",
+  "ParentRef": "j-nZUoWQD0midgVTFBI8dg/OivndKTWakee10cx0laloQ",
+  "Name": "Work Items - WI Details",
+  "Type": "Screen",
+  "Created": "2023-06-20T13:44:11.2956298Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-20T13:44:11.2956298Z"
+}

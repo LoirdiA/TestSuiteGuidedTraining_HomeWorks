@@ -1,0 +1,16 @@
+{
+  "dataVariationFileInfo": [
+    {
+      "filePath": ".variations\\QCxKU6KDKASdfMoa-Data_Sheet1.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\CcGwN40lyA8YqfFP-Results_Sheet1.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\APITestData_Sheet1.json",
+      "dataVariationType": "File"
+    }
+  ]
+}

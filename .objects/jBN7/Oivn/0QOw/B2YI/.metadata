@@ -1,0 +1,13 @@
+﻿{
+  "Id": "B2YIV4nvDkmD0qhhRP2PmA",
+  "Reference": "j-nZUoWQD0midgVTFBI8dg/B2YIV4nvDkmD0qhhRP2PmA",
+  "ParentRef": "j-nZUoWQD0midgVTFBI8dg/0QOw3MY-PEWPMlqL5DxydA",
+  "Name": "Forgot Your Password?",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2023-06-19T12:01:58.4835845Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-19T12:01:58.4835845Z"
+}

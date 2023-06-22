@@ -1,0 +1,12 @@
+﻿{
+  "Id": "7lCONiWjwkOzxZZaae7-bA",
+  "Reference": "j-nZUoWQD0midgVTFBI8dg/7lCONiWjwkOzxZZaae7-bA",
+  "ParentRef": "j-nZUoWQD0midgVTFBI8dg/7rH-PtfOO0CjLqbnejRSPQ",
+  "Name": "Search page",
+  "Type": "Screen",
+  "Created": "2023-06-20T21:13:57.912299Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-20T21:13:57.912299Z"
+}

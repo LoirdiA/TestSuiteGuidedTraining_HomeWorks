@@ -1,0 +1,13 @@
+﻿{
+  "Id": "XApxWu4c0kKh8v5q21R7xg",
+  "Reference": "j-nZUoWQD0midgVTFBI8dg/XApxWu4c0kKh8v5q21R7xg",
+  "ParentRef": "j-nZUoWQD0midgVTFBI8dg/0QOw3MY-PEWPMlqL5DxydA",
+  "Name": "Password",
+  "Type": "Element",
+  "TaxonomyType": "Password",
+  "Created": "2023-06-19T12:01:58.3136952Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-19T12:01:58.3136952Z"
+}

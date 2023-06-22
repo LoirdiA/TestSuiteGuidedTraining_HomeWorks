@@ -1,0 +1,13 @@
+﻿{
+  "Id": "QFCNGblrxkmu4Iv28GzaaA",
+  "Reference": "j-nZUoWQD0midgVTFBI8dg/QFCNGblrxkmu4Iv28GzaaA",
+  "ParentRef": "j-nZUoWQD0midgVTFBI8dg/oNNsLGT2KEWNHQ00F9_Bow",
+  "Name": "Work Items (1)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-06-20T13:34:30.6212318Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-06-20T13:34:30.6212318Z"
+}

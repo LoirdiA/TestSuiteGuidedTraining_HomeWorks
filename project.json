@@ -1,0 +1,101 @@
+{
+  "name": "TrainingExo1",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiBank": "[1.0.1]",
+    "UiPath.Database.Activities": "[1.7.1]",
+    "UiPath.Excel.Activities": "[2.20.2]",
+    "UiPath.System.Activities": "[23.4.3]",
+    "UiPath.Testing.Activities": "[23.4.1]",
+    "UiPath.UIAutomation.Activities": "[23.4.7]",
+    "UiPath.WebAPI.Activities": "[1.16.2]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.4.1.0",
+  "projectVersion": "1.0.140953238",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "41966837-8c64-4a3a-bca2-16658ca92dd4",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "ACME\\LogIn - Success.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "147a3809-10a4-4920-ad89-55b9bd8d5606",
+        "dataVariationFilePath": ".variations\\QCxKU6KDKASdfMoa-Data_Sheet1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Sum of 2 numbers\\DataDrivenCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "9d980e84-2e25-46c2-b144-00f7a769de99",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Sum of 2 numbers\\Hardcoded Data Test.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d1e819a4-1858-49a6-8149-21fb86689bb0",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "ACME\\WIID Check.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "bb3ef7d1-1430-4e51-a571-de38a1156ee7",
+        "dataVariationFilePath": ".variations\\CcGwN40lyA8YqfFP-Results_Sheet1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "HASExo\\Data Driven Hash search.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "6206e191-61e1-4f78-a8a1-012508354eb3",
+        "dataVariationFilePath": ".variations\\APITestData_Sheet1.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "UiBank\\LoanApplicationAPI_DataDriven.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
